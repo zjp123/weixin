@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6af96f8-80a8-4016-9556-e928799f1dfa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gongzhong/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/gongzhong/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gongzhong/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/gongzhong/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gongzhonghao/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gongzhonghao/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="d6af96f8-80a8-4016-9556-e928799f1dfa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,12 +80,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gongzhong/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="247" lean-forward="true" selection-start-line="247" selection-end-line="247" />
+            <state relative-caret-position="154">
+              <caret line="222" column="40" lean-forward="true" selection-start-line="222" selection-start-column="40" selection-end-line="222" selection-end-column="40" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <element signature="e#551#1278#0" />
-                <element signature="e#1329#1477#0" />
                 <element signature="e#1686#3827#0" />
                 <marker date="1568600932969" expanded="true" signature="4311:4316" ph="..." />
                 <marker date="1568600932969" expanded="true" signature="4311:7548" ph="..." />
@@ -172,11 +165,6 @@
               <item name="gongzhonghao" type="b2602c69:ProjectViewProjectNode" />
               <item name="gongzhonghao" type="462c0819:PsiDirectoryNode" />
               <item name="gongzhong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gongzhonghao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gongzhonghao" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gongzhonghao" type="b2602c69:ProjectViewProjectNode" />
@@ -293,16 +281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gongzhong/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#1#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gongzhonghao/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -320,14 +298,22 @@
     <entry file="file://$PROJECT_DIR$/list.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/gongzhong/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gongzhong/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="247" lean-forward="true" selection-start-line="247" selection-end-line="247" />
+        <state relative-caret-position="154">
+          <caret line="222" column="40" lean-forward="true" selection-start-line="222" selection-start-column="40" selection-end-line="222" selection-end-column="40" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <element signature="e#551#1278#0" />
-            <element signature="e#1329#1477#0" />
             <element signature="e#1686#3827#0" />
             <marker date="1568600932969" expanded="true" signature="4311:4316" ph="..." />
             <marker date="1568600932969" expanded="true" signature="4311:7548" ph="..." />
